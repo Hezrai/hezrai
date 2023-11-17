@@ -43,6 +43,7 @@ Olá, sou Hezrai, um entusiasta de software com experiência como Senior Softwar
 - **Frontend:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - **Backend:** ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 
+
 ## Tecnologias Adicionais
 - **Web Service:** Adoro desenvolver e integrar Web Services para criar soluções escaláveis e eficientes.
 - **Swagger:** Utilizo Swagger para documentar e testar APIs de forma eficaz.
@@ -63,3 +64,6 @@ Sou um defensor do Desenvolvimento Orientado a Testes (TDD), acredito que testes
 - [LinkedIn](https://www.linkedin.com/in/hezrai-souza-cruz/) 
 
 Fique à vontade para explorar meus repositórios e descobrir mais sobre meu trabalho! 😊
+
+---
+![Minha Imagem SVG](https://raw.githubusercontent.com/Hezrai/hezrai/9bd3d7f966fcc1e05f7972ccaacc7483c74d028a/github-user-contribution.svg)
