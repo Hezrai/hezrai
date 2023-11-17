@@ -6,7 +6,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 
 ## Sobre mim
-Olá, sou [Seu Nome], um entusiasta de software com experiência como Senior Software Engineer. Minha paixão abrange tanto o desenvolvimento Frontend quanto Backend, com foco especial em tecnologias como Angular, JavaScript, e Spring Boot.
+Olá, sou Hezrai, um entusiasta de software com experiência como Senior Software Engineer. Minha paixão abrange tanto o desenvolvimento Frontend quanto Backend, com foco especial em tecnologias como Angular, JavaScript, e Spring Boot.
 
 ## Tecnologias que domino
 - **Frontend:** ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
